@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Carlos
- *
- */
-module Mail {
-}
