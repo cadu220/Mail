@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Carlos
+ *
+ */
+module Mail {
+}
